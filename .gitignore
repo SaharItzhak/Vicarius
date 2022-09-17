@@ -1,0 +1,6 @@
+credentials.json
+.pytest_cache
+__pycache__
+Reports
+.idea
+venv

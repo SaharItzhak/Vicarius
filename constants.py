@@ -1,0 +1,9 @@
+IMPLICIT_WAIT_TIME = 10
+MAIN_VICARIUS_PAGE = "https://www.vicarius.io/"
+SIGN_IN_PAGE = "https://www.vicarius.io/sign/in"
+SIGN_UP_PAGE = "https://www.vicarius.io/sign/up"
+PRODUCT_PAGE = "https://www.vicarius.io/product"
+VALID_EMAIL_WITH_ACCOUNT = "sahar.itzhak@whitesourcesoftware.com"
+VALID_EMAIL_WITHOUT_ACCOUNT = "sahar.itzhak@mend.io"
+PERSONAL_EMAIL = "saharitz123@gmail.com"
+INVALID_EMAIL = "a@b.c"
